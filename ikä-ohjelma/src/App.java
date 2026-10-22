@@ -50,7 +50,7 @@ if (ika == 100){
     System.out.println("Onnea " + (ika) + "v!");
     System.out.println("Onnea " + (ika) + "v!");
 }
-if (ika >= 58){
+if (ika >= 65){
     System.out.println("Voit jäädä varhais eläkkeelle!");
 }
 if (ika >= 40 && ika <= 50){
